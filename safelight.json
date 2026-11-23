@@ -1,0 +1,13 @@
+{
+  "id": "theme-graphite-separated",
+  "name": "Graphite Separated",
+  "version": "1.0.0",
+  "description": "Cool graphite panels with blue-grey headers, a cyan accent and a teal slider. Mapped from the darktable theme Modern Graphite Separated.",
+  "author": "OPGERUIMD97",
+  "main": "index.js",
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "graphite", "cyan", "darktable"],
+  "license": "MIT",
+  "repository": "OPGERUIMD97/safelight-graphite-separated",
+  "minAppVersion": "3.2.0"
+}
