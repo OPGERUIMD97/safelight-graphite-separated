@@ -43,6 +43,20 @@ html[style*="${MARK}: 1"] .sl-floating-panel > div:first-child > span.flex-1 {
   font-family: "Switzer Semibold", "Switzer", "Avenir Next Demi Bold", "Avenir Next", "Helvetica Neue", sans-serif;
 }
 
+html[style*="${MARK}: 1"] [data-dock-panel] > div:first-child > span.w-2,
+html[style*="${MARK}: 1"] .sl-floating-panel > div:first-child > span.w-2 {
+  width: 14px;
+  font-size: 13px;
+  line-height: 1;
+}
+
+html[style*="${MARK}: 1"] [data-dock-panel] > div:first-child > button[title="Close panel"],
+html[style*="${MARK}: 1"] .sl-floating-panel > div:first-child > button[title="Close panel"] {
+  font-size: 16px;
+  line-height: 1;
+  padding-inline: 4px;
+}
+
 html[style*="${MARK}: 1"] button:not(.sl-switch):not(.sl-select),
 html[style*="${MARK}: 1"] input[type="text"],
 html[style*="${MARK}: 1"] input[type="number"],
