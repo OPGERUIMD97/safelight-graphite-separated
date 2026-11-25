@@ -1,6 +1,6 @@
 # Graphite Separated Theme
 
-A cool graphite theme for [Safelight](https://github.com/anthonyreimche/SafeLight). Blue-grey panel headers, a cyan accent, a teal slider and a cooler grey around the photo.
+A cool graphite theme for [Safelight](https://github.com/anthonyreimche/SafeLight). Blue-grey headers, a cyan accent, a teal slider and a cooler grey around the photo.
 
 ## Install
 
@@ -39,6 +39,10 @@ Then apply it via **View ▸ Theme**. No build step; `index.js` is the bundle.
 - Flags and colour labels keep their own colours. Panel titles use Switzer when installed, then Avenir Next and Helvetica Neue.
 
 ## Changelog
+
+### 1.0.4
+
+- The description matches the README.
 
 ### 1.0.3
 
