@@ -1,7 +1,6 @@
-// Graphite Separated — cool graphite theme for Safelight.
+// Graphite Separated Theme — cool graphite theme for Safelight.
 //
-// Mapped from the darktable user.css "Modern Graphite Separated":
-// blue-grey module headers, a cyan accent, a teal slider fill, and a
+// Blue-grey panel headers, a cyan accent, a teal slider fill, and a
 // cooler grey around the photo. The stylesheet redraws the separated
 // cards (12px caps, header band, frame). It does not move panels.
 
@@ -95,7 +94,7 @@ html[style*="${MARK}: 1"] ::-webkit-scrollbar-thumb:hover {
 export function activate(api) {
   api.registerTheme({
     id: "theme-graphite-separated.theme",
-    name: "Graphite Separated",
+    name: "Graphite Separated Theme",
     colorScheme: "dark",
     vars: {
       // Library grid and the gap between panel cards.

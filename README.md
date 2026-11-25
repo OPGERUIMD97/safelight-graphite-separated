@@ -1,6 +1,6 @@
-# Graphite Separated
+# Graphite Separated Theme
 
-A cool graphite theme for [Safelight](https://github.com/anthonyreimche/SafeLight), mapped from the darktable theme Modern Graphite Separated. Blue-grey panel headers, a cyan accent, a teal slider and a cooler grey around the photo.
+A cool graphite theme for [Safelight](https://github.com/anthonyreimche/SafeLight). Blue-grey panel headers, a cyan accent, a teal slider and a cooler grey around the photo.
 
 ## Install
 
@@ -10,7 +10,7 @@ In Safelight, go to **View ▸ Extensions** and enter:
 OPGERUIMD97/safelight-graphite-separated
 ```
 
-Then apply it via **View ▸ Theme**.
+Then apply it via **View ▸ Theme**. No build step; `index.js` is the bundle.
 
 ## Palette
 
@@ -36,15 +36,25 @@ Then apply it via **View ▸ Theme**.
 ## Notes
 
 - `--font-mono` is left unset, so **Preferences ▸ Interface ▸ Interface font** keeps working (in Safelight 3.x that variable is the interface font).
-- Flags and colour labels keep Safelight's own colours. Panel titles use Switzer when installed, then Avenir Next and Helvetica Neue.
+- Flags and colour labels keep their own colours. Panel titles use Switzer when installed, then Avenir Next and Helvetica Neue.
 
 ## Changelog
 
+### 1.0.3
+
+- The name in the theme list is Graphite Separated Theme. The README uses the same sections as the other themes.
+
+### 1.0.2
+
+- Larger panel expand arrow and close button.
+
 ### 1.0.1
+
 - README in the same layout as the other themes.
 
 ### 1.0.0
-- First release: palette and panel chrome mapped from Modern Graphite Separated.
+
+- First release: cool graphite palette, blue-grey headers, cyan accent and a teal slider.
 
 ## License
 
